@@ -109,8 +109,8 @@ func main() {
 	x := args.x
 	y := args.y
 
-	width := 1920
-	height := 1080
+	width := 2560
+	height := 1440
 	bgColor := color.RGBA{200, 200, 200, 0xff}
 	img := initImage(width, height, bgColor)
 
